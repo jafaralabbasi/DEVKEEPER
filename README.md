@@ -14,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/llX8Xll/DEVKEEPER1.git
+git clone https://github.com/xxlxx20/DEVKEEPER.git
 
 #5
-cd DEVKEEPER1
+cd DEVKEEPER
 
 #6
 chmod +x launch.sh
