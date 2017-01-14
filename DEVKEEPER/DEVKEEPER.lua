@@ -264,7 +264,7 @@ function create_config( )
     "wlc"			
 
     },
-    sudo_users = { 218164567,0,tonumber(our_id)},--Sudo users
+    sudo_users = { 218164567,302937024,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Channel @DEV_KEEPER_NEW]],
     help_text = [[Channel @DEV_KEEPER_NEW]],
